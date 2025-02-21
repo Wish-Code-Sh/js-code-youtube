@@ -6,7 +6,7 @@
 // null => standalone value
 // undefined =>
 // symbol  => unique
-
+let number = null
 
 // object
 

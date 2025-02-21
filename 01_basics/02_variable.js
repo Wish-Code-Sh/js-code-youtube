@@ -16,6 +16,7 @@ because of issue in block scope and functional scope
 userEmail = "Nepal.123@gmail.com"
 userPassword = "456789"
 userCity = "Kathmandu"
+userState = "Bagmati"
 
 
 console.table([userId,userEmail, userPassword, userCity, userState])
